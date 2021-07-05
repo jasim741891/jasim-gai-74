@@ -1,3 +1,45 @@
+*{
+    margin: 0px;
+    padding: o;
+}
+
+
 body{
     font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+
+}
+h3{
+    font-size: 30px;
+    padding-top: 20px;
+}
+.md-jasim-color{
+    color: orange;
+
+    
+}
+.anchor-01{
+    text-decoration: none;
+    background-image: linear-gradient(orange, #F14520);
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+p{
+    padding-top: 10px;
+}
+.heder-section{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+.heder-part-1{
+    width: 50%;
+}
+.heder-part-1 img{
+    width: 80%;
 }
